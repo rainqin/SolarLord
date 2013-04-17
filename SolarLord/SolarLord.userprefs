@@ -1,0 +1,18 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\MouseSelection.js">
+    <Files>
+      <File FileName="Assets\Scripts\ShipMove.js" Line="36" Column="22" />
+      <File FileName="Assets\Scripts\MouseSelection.js" Line="2" Column="29" />
+      <File FileName="Assets\Scripts\PopInfo.js" Line="27" Column="2" />
+      <File FileName="Assets\Scripts\SunLight.js" Line="10" Column="45" />
+      <File FileName="Assets\Scripts\PlanetData.js" Line="46" Column="18" />
+      <File FileName="Assets\Scripts\Operation\PlanetInfo.js" Line="63" Column="28" />
+      <File FileName="Assets\Scripts\SolarInitiate.js" Line="18" Column="55" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
